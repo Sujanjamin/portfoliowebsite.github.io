@@ -1,0 +1,63 @@
+.body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(bgimage.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .header {
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .profile {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: white;
+    
+  }
+
+  .profile1 {
+    display:block;
+    align-items:center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .profile img {
+    width: 250px;
+    border-radius: 5%;
+    margin-right: 1rem;
+  }
+
+  .aboutme {
+    padding: 1rem 0;
+  }
+
+  .education {
+    padding: 1rem 0;
+  }
+
+  .education1 {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    
+  }
+
+  .footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #35424a;
+    color: white;
+  }
+  .ig img{
+    height:20px;
+    margin:0 5px;
+  }
